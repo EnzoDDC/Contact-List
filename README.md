@@ -15,6 +15,6 @@ Este es un proyecto de una lista de contactos diseñada con HTML y CSS. Actualme
   <li>CSS – Para los estilos y la adaptación de modo claro/oscuro.</li>
 </ul>
 
-Link de la web:
+Link de la web: https://enzoddc.github.io/Contact-List/
 
 
